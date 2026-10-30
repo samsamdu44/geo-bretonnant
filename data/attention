@@ -1,0 +1,16 @@
+14 : 526 communes (attendu 529)
+50 : 445 communes (attendu 445)
+61 : 381 communes (attendu 385)
+72 : 352 communes (attendu 354)
+22 : 344 communes (attendu 348)
+35 : 332 communes (attendu 333)
+29 : 277 communes (attendu 277)
+85 : 253 communes (attendu 259)
+56 : 249 communes (attendu 249)
+53 : 240 communes (attendu 240)
+44 : 207 communes (attendu 207)
+49 : 176 communes (attendu 178)
+(3782, 4)
+['nom', 'code', 'codeDepartement', 'geometry']
+0 doublons
+
