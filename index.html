@@ -26,7 +26,7 @@ function couleur(p) {
   return i === -1 ? palette.at(-1) : palette[i];
 }
 
-fetch("carte.geojson").then(r => r.json()).then(data => {
+fetch("sortie/carte.geojson").then(r => r.json()).then(data => {
   L.geoJSON(data, {
     style: f => ({ fillColor: couleur(f.properties),
                    fillOpacity: 0.8, color: "#555", weight: 0.3 }),
